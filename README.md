@@ -1,5 +1,6 @@
 Program Name: Auto Scroller
-Uses: To read e-books, etc
+
+
 
 # Controls:
 # Press 
